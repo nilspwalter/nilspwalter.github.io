@@ -2,7 +2,6 @@
 layout: about
 title: About
 permalink: /
-nav: true
 subtitle: 
 
 profile:
