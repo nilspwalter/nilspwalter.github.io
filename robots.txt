@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nilspwalter.github.io/personal/sitemap.xml
+Sitemap: https://nilspwalter.github.io//sitemap.xml
