@@ -6,5 +6,6 @@ title: About
 related_posts: false
 ---
 
+
 Our paper <a href="https://arxiv.org/abs/2402.12930"> 
 Learning Exceptional Subgroups by End-to-End Maximizing KL-divergence<a> got accepted to ICML 24!
