@@ -7,4 +7,4 @@ related_posts: false
 ---
 
 Preprint of our paper <a href="https://arxiv.org/abs/2402.12930"> 
-Learning Exceptional Subgroups by End-to-End Maximizing KL-divergence<a> available on is arXiv.
+Learning Exceptional Subgroups by End-to-End Maximizing KL-divergence<a> is available on arXiv.
