@@ -8,4 +8,4 @@ related_posts: false
 
 
 Happy to announce that our paper <a href="https://openreview.net/forum?id=AG45XqwPKU"> 
-Learning Exceptional Subgroups by End-to-End Maximizing KL-divergence<a> received <br>a spotlight at ICML 24!
+Learning Exceptional Subgroups by End-to-End Maximizing KL-divergence<a> received <br>a spotlight at ICML 24! 🎉
