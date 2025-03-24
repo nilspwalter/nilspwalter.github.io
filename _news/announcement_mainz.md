@@ -7,5 +7,4 @@ related_posts: false
 ---
 
 
-I gave a talk at the <a href="https://gutenberg-workshops.uni-mainz.de/ai-for-scientific-discovery/">  Gutenberg Workshop<a> on AI for Scientific Discovery. The slides are  
-available <a href="assets/pdf/Gutenberg.pdf"> here<a>.
+I gave a talk at the <a href="https://gutenberg-workshops.uni-mainz.de/ai-for-scientific-discovery/">  Gutenberg Workshop<a> on AI for Scientific Discovery. The slides are available <a href="assets/pdf/Gutenberg.pdf"> here<a>.
