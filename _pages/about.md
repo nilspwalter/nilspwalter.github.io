@@ -22,7 +22,8 @@ I am broadly interested in robust and explainable machine learning for large-sca
 applications. In my Ph.D, I intend to develop new approaches that
 are at the same time descriptive and predictive. That is the models not only offer predictive
 capabilities but also facilitate practitioners to gain deeper insights into the problems they
-are addressing. <br>
+are addressing. Currently, I mostly work on understanding how neural networks process information
+and contextualize when and how models make errors.<br>
 
 Before joining CISPA, I was a research assistant in the goup of <a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele"> Bernt Schiele </a>
 at the <a href="https://www.mpi-inf.mpg.de/de/home"> Max-Planck-Institut for Informatics</a>, supervised by
