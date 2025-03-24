@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a first year Ph.D. student at  <a href="https://cispa.de/en"> CISPA Helmholtz Center for 
+I am a second year Ph.D. student at  <a href="https://cispa.de/en"> CISPA Helmholtz Center for 
 Information Security</a>, supervised by <a href="https://vreeken.eu/"> Jilles Vreeken</a>.
 I am broadly interested in robust and explainable machine learning for large-scale real-world
 applications. In my Ph.D, I intend to develop new approaches that
