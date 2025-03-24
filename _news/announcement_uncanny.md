@@ -6,5 +6,5 @@ title: About
 related_posts: false
 ---
 
-Preprint of our paper <a href="https://arxiv.org/abs/2405.16918"> <br>
+Preprint of our paper <a href="https://arxiv.org/abs/2405.16918"> 
 The Uncanny Valley: Exploring Adversarial Robustness from a Flatness Perspective<a> is available on arXiv.
