@@ -6,4 +6,4 @@ title: About
 related_posts: false
 ---
 
-A new reprint of our work on learning Rule list classifiers in a fully differntiable manner is available on  <a href="https://arxiv.org/pdf/2411.06428">  arXiv<a>.
+A new preprint of our work on learning Rule list classifiers in a fully differntiable manner is available on  <a href="https://arxiv.org/pdf/2411.06428">  arXiv<a>.
