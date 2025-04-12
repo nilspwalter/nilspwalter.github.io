@@ -6,5 +6,5 @@ title: About
 related_posts: false
 ---
 
-Preprint of our paper <a href="https://arxiv.org/abs/2503.07346"> 
+Preprint of our paper <a href="https://nilspwalter.github.io/var-page/"> 
 Now you see me! A framework for obtaining class-relevant saliency maps<a> is available on arXiv.
