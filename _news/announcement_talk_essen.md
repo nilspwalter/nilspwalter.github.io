@@ -7,4 +7,4 @@ related_posts: false
 ---
 
 
-I was invited to give a talk at the <a href="https://www.ikim.uk-essen.de/">  Institute for Artificial Intelligence in Medicine<a>. The slides are available <a href="assets/pdf/talk_essen.pdf"> here<a>.
+I was invited to give a talk at the <a href="https://www.ikim.uk-essen.de/">  Institute for Artificial Intelligence in Medicine<a> in Essen. The slides are available <a href="assets/pdf/talk_essen.pdf"> here<a>.
